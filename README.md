@@ -1,5 +1,6 @@
 # QuarterPointPQ
 Quarter-point Product Quantization for Approximate Nearest Neighbor Search
+
 This is the Matlab implementation of our Pattern Recognition Letters paper:
 **Shan An**, Zhibiao Huang, Shuang Bai, Guangfu Che, Xin Ma, Jie Luo* and Yu Chen. Quarter-point Product Quantization for Approximate Nearest Neighbor Search. Pattern Recognition Letters，Volume 125, 1 July 2019, Pages 187-194. 
 
